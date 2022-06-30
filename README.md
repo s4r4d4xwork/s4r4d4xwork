@@ -15,8 +15,6 @@ Skills: Python / JS / C# / Java / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4r4d4xwork&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s4r4d4xwork)  
-
 ![GitHub metrics](https://metrics.lecoq.io/s4r4d4xwork)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s4r4d4xwork)  
