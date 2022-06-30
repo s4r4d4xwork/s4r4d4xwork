@@ -4,12 +4,15 @@
 
 “I’ve Never Found It Hard To Hack Most People. If You Listen To Them, Watch Them, Their Vulnerabilities Are Like A Neon Sign Screwed Into Their Heads.”
 
-Skills: Python / JS / C# / Java / HTML
+## Skills and Experience
+
+Python / JS / C# / Java / HTML
 
 - 🌱 I’m currently learning AI / Machine Learning 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/s4r4d4xwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/s4r4d4) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/s4r4d4xwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/s4r4d4)  
+## Others
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4r4d4xwork)](https://github.com/anuraghazra/github-readme-stats)
 
